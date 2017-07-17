@@ -1,2 +1,3 @@
 # hello-world
-Just testing repository
+
+Hello! It is testing GitHub project.
